@@ -33,8 +33,3 @@ Here are 10 images that represent some of my interests:
 
 ---
 
-## Markdown Practice
-
-This file is called `README.md`.
-
-I practiced using **bold text**, *italic text*, headings, lists, `code`, a block quote, a horizontal rule, a hyperlink, and an embedded image.
